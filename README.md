@@ -6,7 +6,7 @@ A hands-on cybersecurity project focused on deploying and configuring a **Wazuh 
 
 ## 🎬 Live Demo
 
-> ▶️ [Click here to watch the demo video](./)
+> ▶️ [Click here to watch the demo video](./https://youtu.be/cwtTkdEac_Q)
 
 ---
 
