@@ -6,13 +6,7 @@ A hands-on cybersecurity project focused on deploying and configuring a **Wazuh 
 
 ## 🎬 Live Demo
 
-> ▶️ [Click here to watch the demo video](./demo/wazuh_demo.mp4)
-
----
-
-## 📄 Final Report
-
-> 📝 [View Full Project Report](./report/Wazuh_SIEM_Final_Report.pdf)
+> ▶️ [Click here to watch the demo video](./)
 
 ---
 
@@ -103,11 +97,14 @@ sudo systemctl start wazuh-agent
 
 ## 📸 Screenshots
 
-> *(Add your dashboard screenshots here)*
 
-| Dashboard Overview | Alert Detection | Agent Status |
-|---|---|---|
-| ![dashboard](./screenshots/dashboard.png) | ![alerts](./screenshots/alerts.png) | ![agents](./screenshots/agents.png) |
+Wazuh Dashboard <img width="1600" height="840" alt="Wazuh Dashboard" src="https://github.com/user-attachments/assets/89f8c827-6000-45de-bda5-06c1d7baa227" />
+Alerts <img width="1600" height="701" alt="Wazuh Alerts" src="https://github.com/user-attachments/assets/d54e2b2c-a807-4527-b277-8f98bd6eed77" /><br><br>
+Authentication Logs <img width="612" height="352" alt="image" src="https://github.com/user-attachments/assets/83af868d-e1ca-4297-8359-f93d41399b5d"/> <img width="523" height="299" alt="image" src="https://github.com/user-attachments/assets/9ee678f3-4ed7-48ec-947c-4eb0372750a2"/> <img width="604" height="329" alt="image" src="https://github.com/user-attachments/assets/01023929-2e2b-42c5-bac5-a9ec337cf861" /><br>
+File Intergrity Monitoring <img width="933" height="495" alt="image" src="https://github.com/user-attachments/assets/fb01cdec-529e-4d70-9cc8-7438885f8a31" />
+
+
+
 
 ---
 
